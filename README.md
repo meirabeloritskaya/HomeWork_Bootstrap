@@ -9,10 +9,7 @@
 ## Требования:
 
 - Python 3.12
-
-- PostgreSQL
-
-- psycopg2
+git add
 
 ## Установка:
 
